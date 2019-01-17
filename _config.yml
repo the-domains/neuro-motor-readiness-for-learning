@@ -1,0 +1,48 @@
+typography_spectrum: 0.7032922204118222
+color:
+  brandStrength: 0.23294867867032196
+  lightness: 0.508967816617598
+  saturation: 0.7342957805862447
+  rhythmicContrast: 0.8594409111407724
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+opengraph:
+  appId: ''
+layout_spectrum: 0.9429322004065581
+analytics:
+  twitter: ''
+author:
+  url: 'http://www.nmrfl.com'
+  name: by Learning Ways Hellas - 2018
+  email: kalostypi@icloud.com
+name: Neuro Motor Readiness for Learning
+url: 'http://nmrfl.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: ΝευροΚινητική Ετοιμότητα για Μάθηση
+    id: 0ba2133a-86b2-420b-96a0-c174fd7ff157
+    type: content
+  - name: Η Μεθόδος Νευρoκίνησης® Anat Baniel
+    id: 889f5a63-2e9d-4419-82dc-b01d67b60914
+    type: content
+title: NMR fL®
+content: []
+description: ΝευροΚινητική Ετοιμότητα για Μάθηση - NeuroMotor Readiness for Learning
+purpose:
+  - type: contact
+    url: 'tel:00302299112171'
+    label: Call 00302299112171
+  - type: external
+    url: 'http://www.nmrfl.com'
+    label: 'http://www.nmrfl.com'
+github: true
